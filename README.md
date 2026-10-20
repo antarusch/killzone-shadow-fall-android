@@ -20,7 +20,7 @@ These projects were **made with AI (ChatGPT/Codex)**, with human-guided developm
 
 No game executable or proprietary game-data files are included in these APK downloads. Supply your own legally obtained files for the supported game/version.
 
-Testing was performed on a REDMAGIC 10S Pro running Android 16, with a Snapdragon 8 Elite Leading Version, Adreno 830, and 24 GB RAM. Vulkan/Turnip graphics are used; Turnip Gen8 V37 is the preferred driver. Other devices and drivers are not comprehensively tested.
+Testing was performed on a REDMAGIC 10S Pro running Android 16, with a Snapdragon 8 Elite Leading Version, Adreno 830, and 24 GB RAM. Vulkan/Turnip graphics are used. **The latest Rubataga / WinNative Turnip drivers are recommended for better performance.** Other devices and drivers are not comprehensively tested.
 
 ## What was changed for Killzone: Shadow Fall
 
