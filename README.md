@@ -34,9 +34,8 @@ The user confirmed that the previous level-loading crash no longer occurred and 
 
 ## Downloads in this release
 
-- **Alpha 7.16 protected master:** `Killzone_Shadow_Fall_Android_MASTER_Alpha7_16.apk` — the exact preserved master APK.
-- **Alpha 7.17 branding update:** `Killzone_Shadow_Fall_Android_Alpha7_17_KillzoneArtwork.apk` — the newer app icon/background packaging, using the same signing identity. The original masters remain preserved.
+- **Alpha 7.17 branding update:** `Killzone_Shadow_Fall_Android_Alpha7_17_KillzoneArtwork.apk` — the newer app icon/background packaging, using the same signing identity.
 
-Both are alpha snapshots. The branding update is supplied separately so the exact master remains available. Android only permits a normal update to a higher version code; install the master first if you intend to compare both builds.
+This is an experimental alpha release.
 
 SHA-256 values are in `SHA256SUMS.txt`. APK signatures and archive integrity were checked before preparing this release.
